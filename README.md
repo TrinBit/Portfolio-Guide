@@ -1,5 +1,5 @@
-# Trinity's Portfolio
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+# :computer: Trinity's Portfolio
+Welcome to my portfolio! Here, I document a summary of my projects with links to them!
 
 ## 📚 Table of Contents
 - [Games](#Games-anchor-point)
